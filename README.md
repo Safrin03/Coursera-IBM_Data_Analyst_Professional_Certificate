@@ -9,7 +9,7 @@
 
 ## Courses
 
-There are 9 Courses in this Professional Certificate Specialization are as follows:
+There are 9 Courses in this Professional Certificate Specialization which are as follows:
 
 <img src="https://images.credly.com/size/680x680/images/7d59a314-d9bd-4ed9-80dd-9f3af94d77d1/Data_Analytics_Essentials.png" align="left" width="80"/>  [__Course-1 : Introduction to Data Analytics__](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst)
 
@@ -18,7 +18,7 @@ There are 9 Courses in this Professional Certificate Specialization are as follo
 
 
 # 
-<img src="https://images.credly.com/size/680x680/images/dab7d3e9-427d-46d0-af9e-3fd6bb7c3328/Excel_Essentials_for_Data_Analytics.png" align="left" width="80"/> [__Course-2 : Excel Basics for Data Analytics__](https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=ibm-data-analyst)
+<img src="https://images.credly.com/size/680x680/images/dab7d3e9-427d-46d0-af9e-3fd6bb7c3328/Excel_Essentials_for_Data_Analytics.png" align="left" width="80"/> [__Course-2 : Excel Basics for Data Analysis__](https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=ibm-data-analyst)
 <p align="center">
 <img src="Safrin_S-Ibm-Data-Analyst-Certificate/Excel Basics for Data Analytics.jpg" width=80% height=80%>
 
@@ -46,17 +46,17 @@ There are 9 Courses in this Professional Certificate Specialization are as follo
 
 
 #
-<img src="" align="left" width="80"/> __Course-7 : Data Analysis with Python__
+<img src="https://images.credly.com/size/680x680/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png" align="left" width="80"/> [__Course-7 : Data Analysis with Python__](https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-analyst)
 <p align="center">
-<img src="" width=80% height=80%>
+<img src="Safrin_S-Ibm-Data-Analyst-Certificate/Data Analysis with Python.jpg" width=80% height=80%>
 
 #
-<img src="" align="left" width="80"/> __Course-8 : Data Visualization with Python__
+<img src="https://images.credly.com/size/680x680/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png" align="left" width="80"/> [__Course-8 : Data Visualization with Python__](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-analyst)
 <p align="center">
-<img src="" width=80% height=80%>
+<img src="Safrin_S-Ibm-Data-Analyst-Certificate/Data Visualization with Python.jpg" width=80% height=80%>
 
 #
-<img src="" align="left" width="80"/> __Course-9 : IBM Data Analyst Capstone Project__
+[__Course-9 : IBM Data Analyst Capstone Project__](https://www.coursera.org/learn/ibm-data-analyst-capstone-project?specialization=ibm-data-analyst)https://www.coursera.org/learn/ibm-data-analyst-capstone-project?specialization=ibm-data-analyst
 <p align="center">
-<img src="" width=80% height=80%>
+<img src="Safrin_S-Ibm-Data-Analyst-Certificate/IBM Data Analyst Capstone Project.jpg" width=80% height=80%>
 
