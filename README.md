@@ -56,7 +56,7 @@ There are 9 Courses in this Professional Certificate Specialization which are as
 <img src="Safrin_S-Ibm-Data-Analyst-Certificate/Data Visualization with Python.jpg" width=80% height=80%>
 
 #
-[__Course-9 : IBM Data Analyst Capstone Project__](https://www.coursera.org/learn/ibm-data-analyst-capstone-project?specialization=ibm-data-analyst)https://www.coursera.org/learn/ibm-data-analyst-capstone-project?specialization=ibm-data-analyst
+[__Course-9 : IBM Data Analyst Capstone Project__](https://www.coursera.org/learn/ibm-data-analyst-capstone-project?specialization=ibm-data-analyst)
 <p align="center">
 <img src="Safrin_S-Ibm-Data-Analyst-Certificate/IBM Data Analyst Capstone Project.jpg" width=80% height=80%>
 
