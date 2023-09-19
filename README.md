@@ -11,6 +11,7 @@
 
 There are 9 Courses in this Professional Certificate Specialization are as follows:
 
-- [x] [__Course-1 : Introduction to Data Analytics__](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst)
+<img src="https://images.credly.com/size/680x680/images/7d59a314-d9bd-4ed9-80dd-9f3af94d77d1/Data_Analytics_Essentials.png" align="left" width="80"/>  [__Course-1 : Introduction to Data Analytics__](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst)
+
 <p align="center">
 <img src="Safrin_S-Ibm-Data-Analyst-Certificate/IBM Data Analyst.jpg" width=80% height=80%>
